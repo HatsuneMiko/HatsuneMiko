@@ -3,8 +3,8 @@
     <img src="https://github-profile-trophy.vercel.app/?username=HatsuneMiko&column=7&theme=onedark"/>
   </p>
 </a>
-<a href="http://qggogo.com/" target="_blank">
-  <img width="340px" align="right" src="https://metrics.lecoq.io/HatsuneMiko?template=terminal" />
+<a href="http://qggogo.com/">
+  <img width="360px" align="right" src="https://metrics.lecoq.io/HatsuneMiko?template=terminal" />
 </a>
 <h3>HatsuneMiko 🌝</h3>
 <img style="width:480px;" src="https://github-readme-stats.vercel.app/api?username=HatsuneMiko&theme=vue-dark&count_private=true&show_icons=true">
