@@ -6,7 +6,7 @@
 <a href="http://qggogo.com/">
   <img width="340px" align="right" src="https://metrics.lecoq.io/HatsuneMiko?template=terminal" />
 </a>
-# HatsuneMiko 🌝
+<h3>HatsuneMiko 🌝</h3>
 <img style="width:480px;" src="https://github-readme-stats.vercel.app/api?username=HatsuneMiko&theme=vue-dark&count_private=true&show_icons=true">
 <img style="width:480px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HatsuneMiko&theme=vue-dark&layout=compact">
 <!-- <img width="340px" src="https://github-readme-stats.vercel.app/api/pin/?username=HatsuneMiko&repo=my-now-blog&theme=dark"> -->
