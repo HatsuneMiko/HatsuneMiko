@@ -13,6 +13,6 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HatsuneMiko&theme=dracula&layout=compact&locale=cn&langs_count=10&bg_color=00000010&text_color=c78944&hide=HTML,CSS" /> -->
 
 
-| 链接|       |
+| 站点| 地址      |
 | ---- | ---- |
 | 博客 | http://qggogo.com |
