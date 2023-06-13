@@ -17,4 +17,3 @@
 | 站点| 地址      |
 | ---- | ---- |
 | 博客 | http://qggogo.com/ |
-| XashDS | http://xash.cstrike.online/ |
