@@ -17,3 +17,4 @@
 | 站点| 地址      |
 | ---- | ---- |
 | 博客 | http://qggogo.com/ |
+| Xash服务站 | http://cstrike.online:7878 |
