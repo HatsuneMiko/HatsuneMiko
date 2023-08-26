@@ -31,6 +31,6 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
- 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HatsuneMiko&theme=vue-dark&layout=compact">
-  <img width="100%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HatsuneMiko&theme=dracula&layout=compact&locale=cn&langs_count=10&bg_color=00000010&text_color=c78944&hide=HTML,CSS" />
+ 	<img  width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HatsuneMiko&theme=vue-dark&layout=compact">
+  	<img  width="100vw" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HatsuneMiko&theme=dracula&layout=compact&locale=cn&langs_count=10&bg_color=00000010&text_color=c78944&hide=HTML,CSS" />
 <!-- <sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/HatsuneMiko/HatsuneMiko/blob/master/cover_image.jpg)</sub> -->
