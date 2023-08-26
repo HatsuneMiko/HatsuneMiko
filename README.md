@@ -5,7 +5,7 @@
  
 我是一名web全栈开发者。
  
-<img align="right" alt="img" src="https://github.com/HatsuneMiko/HatsuneMiko/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="http://8.210.45.36:4396/GitHubIMG/tx.jpg" width="50%" height="auto" />
  
  
 #### 🌱 Things I am currently working on: 
@@ -16,7 +16,7 @@
  
 #### :computer: Programming languages and tools: 
 <p>
-	<img width="50%" align="right" src="http://8.210.45.36:4396/GitHubIMG/tx.jpg&show_icons=true&hide_border=true" />
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=HatsuneMiko&show_icons=true&hide_border=true" />
  
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
@@ -32,4 +32,4 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
  
-<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/HatsuneMiko/HatsuneMiko/blob/master/cover_image.jpg)</sub>
+<!-- <sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/HatsuneMiko/HatsuneMiko/blob/master/cover_image.jpg)</sub> -->
