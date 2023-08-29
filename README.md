@@ -3,7 +3,7 @@
  
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/HatsuneMiko)
  
-我是一名web全栈开发者。
+我是一名伪web全栈开发者。
  
 <img align="right" alt="Drive Kinght" src="http://8.210.45.36:4396/GitHubIMG/tx.jpg" width="50%" height="auto" />
  
