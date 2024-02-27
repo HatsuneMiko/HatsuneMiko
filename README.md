@@ -31,6 +31,9 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/cmake/cmake-ar21.svg"></code>
 </p>
  	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HatsuneMiko&theme=vue-dark&layout=compact">
   	<img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HatsuneMiko&theme=dracula&layout=compact&locale=cn&langs_count=10&bg_color=00000010&text_color=c78944&hide=HTML,CSS" />
